@@ -1,0 +1,8 @@
+  <property>
+    <name>hbase.tmp.dir</name>
+    <value>./tmp</value>
+  </property>
+  <property>
+    <name>hbase.unsafe.stream.capability.enforce</name>
+    <value>false</value>
+  </property>
